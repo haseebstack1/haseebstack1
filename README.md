@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @haseebstack1
+- 👋 Hi, I’m Haseeb zahid
 - 👀 I’m interested in coding backend application
 - 🌱 I’m currently learning node js, express js 
 - 💞️ I’m looking to collaborate on backend projects 
